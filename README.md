@@ -34,13 +34,13 @@ OPENAI_API_KEY=your_openai_api_key_here`
 
 Add driver to system PATH or place in project folder   
 📦 Project Structure 
- 
+``` 
 email_automation/
 ├── main.py              # Main bot controller
 ├── email_automation.py  # Gmail handling logic
 ├── whatsapp_bot.py      # WhatsApp integration
 └── .env                 # API key storage
- 
+ ```
  
 🚀 Usage Guide 
 1. Start the Bot  
