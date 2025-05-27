@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+/UserData*
+*.csv
+main.py
+__pycache__/
+WhatsApp-Selenium.zip
+QRCode.png
+test.py
+Searched \!.png
+
 # C extensions
 *.so
 
